@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:4:11-51
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.location.gps
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:6:5-90
+	android:required
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:6:64-87
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:6:19-63
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:8:22-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:10:22-64
+application
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:12:5-50:19
+	android:label
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:14:9-42
+	android:allowBackup
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:13:9-36
+activity#com.parent.subparent.autoreply.ui.PreferenceActivity
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:22:13-45
+	android:launchMode
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:20:13-42
+	android:configChanges
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:19:13-204
+	android:theme
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:18:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:25:27-74
+receiver#com.parent.subparent.autoreply.event.SMSReceiver
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:29:9-48:20
+	android:enabled
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:32:13-35
+	android:label
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:31:13-45
+	android:exported
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:30:13-46
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:36:13-38:29
+	android:priority
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:36:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:37:25-79
+intent-filter#action:name:android.intent.action.DATA_SMS_RECEIVED+data:host:*+data:port:9200+data:scheme:sms
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:40:13-46:29
+	android:priority
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:40:28-57
+action#android.intent.action.DATA_SMS_RECEIVED
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:41:25-79
+data
+ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:42:17-45:44
+	android:host
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:43:21-37
+	android:port
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:44:21-40
+	android:scheme
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml:45:21-41
+uses-sdk
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+		ADDED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml
+		INJECTED from /home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/AndroidManifest.xml

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_label_background">#999999</color>
+    <color name="dialog_label_text">#FFFFFF</color>
+    <color name="listview_background">#FFFFFF</color>
+    <color name="listview_divider">#999999</color>
+    <string name="app_name">MY App</string>
+    <string name="error_add_listitem">Error: Could not add new item to list</string>
+    <string name="error_missing_required_value">Error: Missing Required Value</string>
+    <string name="error_send_silent_sms">Error: Could not send Silent SMS</string>
+    <string name="label_button_cancel">CANCEL</string>
+    <string name="label_button_delete">DELETE</string>
+    <string name="label_button_save">SAVE</string>
+    <string name="label_button_send">SEND</string>
+    <string name="label_enable">Enable Service</string>
+    <string name="label_message">Message must begin with:</string>
+    <string name="label_sender">Sender must end with:</string>
+    <string name="label_silent_sms_recipient">Send Silent SMS to:</string>
+    <string name="menu_add">Add Rule</string>
+    <string name="menu_send_silent_sms">Send Silent SMS</string>
+    <style name="app_theme" parent="@android:style/Theme.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+    </style>
+    <style name="dialog_textview" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/dialog_label_text</item>
+        <item name="android:background">@color/dialog_label_background</item>
+        <item name="android:layout_marginLeft">2dp</item>
+        <item name="android:layout_marginRight">2dp</item>
+        <item name="android:padding">4dp</item>
+    </style>
+</resources>

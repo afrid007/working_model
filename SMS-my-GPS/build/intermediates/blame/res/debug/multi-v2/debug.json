@@ -1,0 +1,1184 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-hu/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,817,731,906,516,570,625,678,227,365,295,438,103,159",
+                        "endColumns": "47,88,85,84,53,54,52,52,67,72,69,77,55,67",
+                        "endOffsets": "98,901,812,986,565,620,673,726,290,433,360,511,154,222"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,192,278,363,417,472,525,578,646,719,789,867,923",
+                        "endColumns": "47,88,85,84,53,54,52,52,67,72,69,77,55,67",
+                        "endOffsets": "98,187,273,358,412,467,520,573,641,714,784,862,918,986"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ko/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,732,656,805,455,506,557,606,209,321,260,381,103,148",
+                        "endColumns": "47,72,75,71,50,50,48,49,50,59,60,73,44,60",
+                        "endOffsets": "98,800,727,872,501,552,601,651,255,376,316,450,143,204"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,176,252,324,375,426,475,525,576,636,697,771,816",
+                        "endColumns": "47,72,75,71,50,50,48,49,50,59,60,73,44,60",
+                        "endOffsets": "98,171,247,319,370,421,470,520,571,631,692,766,811,872"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-mt_values-mt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-mt/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,800,715,894,503,558,613,664,222,354,283,426,107,155",
+                        "endColumns": "51,93,84,84,54,54,50,50,60,71,70,76,47,66",
+                        "endOffsets": "102,889,795,974,553,608,659,710,278,421,349,498,150,217"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,201,286,371,426,481,532,583,644,716,787,864,912",
+                        "endColumns": "51,93,84,84,54,54,50,50,60,71,70,76,47,66",
+                        "endOffsets": "102,196,281,366,421,476,527,578,639,711,782,859,907,974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ru/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,862,763,960,540,595,651,707,242,374,299,447,104,158",
+                        "endColumns": "48,97,98,89,54,55,55,55,56,72,74,92,53,83",
+                        "endOffsets": "99,955,857,1045,590,646,702,758,294,442,369,535,153,237"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,202,301,391,446,502,558,614,671,744,819,912,966",
+                        "endColumns": "48,97,98,89,54,55,55,55,56,72,74,92,53,83",
+                        "endOffsets": "99,197,296,386,441,497,553,609,666,739,814,907,961,1045"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-pl/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,793,706,887,492,547,600,653,221,342,275,416,105,155",
+                        "endColumns": "49,93,86,82,54,52,52,52,53,73,66,75,49,65",
+                        "endOffsets": "100,882,788,965,542,595,648,701,270,411,337,487,150,216"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,199,286,369,424,477,530,583,637,711,778,854,904",
+                        "endColumns": "49,93,86,82,54,52,52,52,53,73,66,75,49,65",
+                        "endOffsets": "100,194,281,364,419,472,525,578,632,706,773,849,899,965"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-fr-rCA/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,837,747,943,534,590,645,696,237,371,297,444,104,159",
+                        "endColumns": "48,105,89,97,55,54,50,50,59,72,73,89,54,77",
+                        "endOffsets": "99,938,832,1036,585,640,691,742,292,439,366,529,154,232"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,210,300,398,454,509,560,611,671,744,818,908,963",
+                        "endColumns": "48,105,89,97,55,54,50,50,59,72,73,89,54,77",
+                        "endOffsets": "99,205,295,393,449,504,555,606,666,739,813,903,958,1036"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ga_values-ga.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ga/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,813,735,914,521,579,634,684,222,371,286,447,104,157",
+                        "endColumns": "48,100,77,94,57,54,49,50,63,75,84,73,52,64",
+                        "endOffsets": "99,909,808,1004,574,629,679,730,281,442,366,516,152,217"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,205,283,378,436,491,541,592,656,732,817,891,944",
+                        "endColumns": "48,100,77,94,57,54,49,50,63,75,84,73,52,64",
+                        "endOffsets": "99,200,278,373,431,486,536,587,651,727,812,886,939,1004"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-gu/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,803,720,892,497,552,611,668,220,347,277,417,105,153",
+                        "endColumns": "49,88,82,87,54,58,56,51,56,69,69,79,47,66",
+                        "endOffsets": "100,887,798,975,547,606,663,715,272,412,342,492,148,215"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,194,277,365,420,479,536,588,645,715,785,865,913",
+                        "endColumns": "49,88,82,87,54,58,56,51,56,69,69,79,47,66",
+                        "endOffsets": "100,189,272,360,415,474,531,583,640,710,780,860,908,975"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-th/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,785,698,879,489,544,595,648,218,341,278,407,104,149",
+                        "endColumns": "48,93,86,88,54,50,52,49,59,65,62,81,44,68",
+                        "endOffsets": "99,874,780,963,539,590,643,693,273,402,336,484,144,213"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,198,285,374,429,480,533,583,643,709,772,854,899",
+                        "endColumns": "48,93,86,88,54,50,52,49,59,65,62,81,44,68",
+                        "endOffsets": "99,193,280,369,424,475,528,578,638,704,767,849,894,963"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-lv/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,799,704,898,493,548,602,653,227,352,284,415,105,162",
+                        "endColumns": "49,98,94,85,54,53,50,50,56,62,67,77,56,64",
+                        "endOffsets": "100,893,794,979,543,597,648,699,279,410,347,488,157,222"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,204,299,385,440,494,545,596,653,716,784,862,919",
+                        "endColumns": "49,98,94,85,54,53,50,50,56,62,67,77,56,64",
+                        "endOffsets": "100,199,294,380,435,489,540,591,648,711,779,857,914,979"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-nb/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,789,702,880,486,543,597,651,221,344,279,410,104,156",
+                        "endColumns": "48,90,86,83,56,53,53,50,57,65,64,75,51,64",
+                        "endOffsets": "99,875,784,959,538,592,646,697,274,405,339,481,151,216"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,195,282,366,423,477,531,582,640,706,771,847,899",
+                        "endColumns": "48,90,86,83,56,53,53,50,57,65,64,75,51,64",
+                        "endOffsets": "99,190,277,361,418,472,526,577,635,701,766,842,894,959"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-fi/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,802,714,903,495,551,606,661,223,353,285,418,106,156",
+                        "endColumns": "50,100,87,88,55,54,54,52,61,64,67,76,49,66",
+                        "endOffsets": "101,898,797,987,546,601,656,709,280,413,348,490,151,218"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,207,295,384,440,495,550,603,665,730,798,875,925",
+                        "endColumns": "50,100,87,88,55,54,54,52,61,64,67,76,49,66",
+                        "endOffsets": "101,202,290,379,435,490,545,598,660,725,793,870,920,987"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-de/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,820,725,931,509,567,623,674,236,356,296,422,106,160",
+                        "endColumns": "50,110,94,97,57,55,50,50,59,65,59,86,53,75",
+                        "endOffsets": "101,926,815,1024,562,618,669,720,291,417,351,504,155,231"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,217,312,410,468,524,575,626,686,752,812,899,953",
+                        "endColumns": "50,110,94,97,57,55,50,50,59,65,59,86,53,75",
+                        "endOffsets": "101,212,307,405,463,519,570,621,681,747,807,894,948,1024"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-bs/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,799,704,889,488,543,597,650,221,348,277,413,104,155",
+                        "endColumns": "48,89,94,85,54,53,52,53,55,64,70,74,50,65",
+                        "endOffsets": "99,884,794,970,538,592,645,699,272,408,343,483,150,216"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,194,289,375,430,484,537,591,647,712,783,858,909",
+                        "endColumns": "48,89,94,85,54,53,52,53,55,64,70,74,50,65",
+                        "endOffsets": "99,189,284,370,425,479,532,586,642,707,778,853,904,970"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-el/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,842,751,949,522,579,637,695,228,368,292,440,106,159",
+                        "endColumns": "50,106,90,99,56,57,57,55,63,71,75,81,52,68",
+                        "endOffsets": "101,944,837,1044,574,632,690,746,287,435,363,517,154,223"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,213,304,404,461,519,577,633,697,769,845,927,980",
+                        "endColumns": "50,106,90,99,56,57,57,55,63,71,75,81,52,68",
+                        "endOffsets": "101,208,299,399,456,514,572,628,692,764,840,922,975,1044"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-cnr_values-cnr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-cnr/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,830,729,930,506,561,616,675,228,360,285,431,109,161",
+                        "endColumns": "53,99,100,85,54,54,58,53,56,70,74,74,51,66",
+                        "endOffsets": "104,925,825,1011,556,611,670,724,280,426,355,501,156,223"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,209,310,396,451,506,565,619,676,747,822,897,949",
+                        "endColumns": "53,99,100,85,54,54,58,53,56,70,74,74,51,66",
+                        "endOffsets": "104,204,305,391,446,501,560,614,671,742,817,892,944,1011"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,685,618,747,414,465,516,567,203,298,249,347,103,145",
+                        "endColumns": "47,61,66,64,50,50,50,50,45,48,48,66,41,57",
+                        "endOffsets": "98,742,680,807,460,511,562,613,244,342,293,409,140,198"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,165,232,297,348,399,450,501,547,596,645,712,754",
+                        "endColumns": "47,61,66,64,50,50,50,50,45,48,48,66,41,57",
+                        "endOffsets": "98,160,227,292,343,394,445,496,542,591,640,707,749,807"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ja/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,708,638,780,434,488,539,589,208,306,258,361,103,147",
+                        "endColumns": "47,71,69,77,53,50,49,48,49,54,47,72,43,60",
+                        "endOffsets": "98,775,703,853,483,534,584,633,253,356,301,429,142,203"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,175,245,323,377,428,478,527,577,632,680,753,797",
+                        "endColumns": "47,71,69,77,53,50,49,48,49,54,47,72,43,60",
+                        "endOffsets": "98,170,240,318,372,423,473,522,572,627,675,748,792,853"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-lt/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,799,709,896,496,550,607,658,225,349,285,421,105,159",
+                        "endColumns": "49,96,89,86,53,56,50,50,59,71,63,74,53,65",
+                        "endOffsets": "100,891,794,978,545,602,653,704,280,416,344,491,154,220"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,202,292,379,433,490,541,592,652,724,788,863,917",
+                        "endColumns": "49,96,89,86,53,56,50,50,59,71,63,74,53,65",
+                        "endOffsets": "100,197,287,374,428,485,536,587,647,719,783,858,912,978"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-sl/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,799,708,900,496,551,606,657,221,351,279,421,105,156",
+                        "endColumns": "49,100,90,91,54,54,50,50,57,69,71,74,50,64",
+                        "endOffsets": "100,895,794,987,546,601,652,703,274,416,346,491,151,216"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,206,297,389,444,499,550,601,659,729,801,876,927",
+                        "endColumns": "49,100,90,91,54,54,50,50,57,69,71,74,50,64",
+                        "endOffsets": "100,201,292,384,439,494,545,596,654,724,796,871,922,987"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-te/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,788,702,882,476,530,587,651,223,336,277,400,103,157",
+                        "endColumns": "47,93,85,82,53,56,63,50,53,63,58,75,53,65",
+                        "endOffsets": "98,877,783,960,525,582,646,697,272,395,331,471,152,218"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,197,283,366,420,477,541,592,646,710,769,845,899",
+                        "endColumns": "47,93,85,82,53,56,63,50,53,63,58,75,53,65",
+                        "endOffsets": "98,192,278,361,415,472,536,587,641,705,764,840,894,960"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-he_values-he.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-he/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,754,677,839,467,521,575,627,212,328,265,395,102,149",
+                        "endColumns": "46,84,76,78,53,53,51,49,52,66,62,71,46,62",
+                        "endOffsets": "97,834,749,913,516,570,622,672,260,390,323,462,144,207"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,187,264,343,397,451,503,553,606,673,736,808,855",
+                        "endColumns": "46,84,76,78,53,53,51,49,52,66,62,71,46,62",
+                        "endOffsets": "97,182,259,338,392,446,498,548,601,668,731,803,850,913"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-es/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,811,722,917,508,563,618,669,224,357,284,428,103,153",
+                        "endColumns": "47,105,88,90,54,54,50,52,59,70,72,79,49,70",
+                        "endOffsets": "98,912,806,1003,558,613,664,717,279,423,352,503,148,219"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,209,298,389,444,499,550,603,663,734,807,887,937",
+                        "endColumns": "47,105,88,90,54,54,50,52,59,70,72,79,49,70",
+                        "endOffsets": "98,204,293,384,439,494,545,598,658,729,802,882,932,1003"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-bn/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,817,731,905,504,562,620,678,223,355,283,423,105,155",
+                        "endColumns": "49,87,85,84,57,57,57,52,59,67,71,80,49,67",
+                        "endOffsets": "100,900,812,985,557,615,673,726,278,418,350,499,150,218"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,193,279,364,422,480,538,591,651,719,791,872,922",
+                        "endColumns": "49,87,85,84,57,57,57,52,59,67,71,80,49,67",
+                        "endOffsets": "100,188,274,359,417,475,533,586,646,714,786,867,917,985"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,20,19,21,14,15,16,17,7,10,9,12,4,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,776,689,861,476,531,586,637,212,332,269,400,100,146",
+                        "endColumns": "43,84,86,82,54,54,50,50,55,66,62,74,45,64",
+                        "endOffsets": "94,856,771,939,526,581,632,683,263,394,327,470,141,206"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "270,314,399,486,569,624,679,730,781,837,904,967,1042,1088",
+                        "endColumns": "43,84,86,82,54,54,50,50,55,66,62,74,45,64",
+                        "endOffsets": "309,394,481,564,619,674,725,776,832,899,962,1037,1083,1148"
+                    }
+                },
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "5,6,2,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "161,219,55,109",
+                        "endColumns": "57,51,53,50",
+                        "endOffsets": "214,266,104,155"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,113,165,219",
+                        "endColumns": "57,51,53,50",
+                        "endOffsets": "108,160,214,265"
+                    }
+                },
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,246",
+                        "endLines": "5,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "241,642"
+                    },
+                    "to": {
+                        "startLines": "20,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "1153,1344",
+                        "endLines": "23,30",
+                        "endColumns": "12,12",
+                        "endOffsets": "1339,1740"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-si/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,800,718,889,496,557,611,666,224,351,284,418,104,157",
+                        "endColumns": "48,88,81,79,60,53,54,51,59,66,66,77,52,66",
+                        "endOffsets": "99,884,795,964,552,606,661,713,279,413,346,491,152,219"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,193,275,355,416,470,525,577,637,704,771,849,902",
+                        "endColumns": "48,88,81,79,60,53,54,51,59,66,66,77,52,66",
+                        "endOffsets": "99,188,270,350,411,465,520,572,632,699,766,844,897,964"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-sr/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,793,699,888,486,541,597,648,221,346,277,411,105,156",
+                        "endColumns": "49,94,93,86,54,55,50,50,55,64,68,74,50,64",
+                        "endOffsets": "100,883,788,970,536,592,643,694,272,406,341,481,151,216"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,200,294,381,436,492,543,594,650,715,784,859,910",
+                        "endColumns": "49,94,93,86,54,55,50,50,55,64,68,74,50,64",
+                        "endOffsets": "100,195,289,376,431,487,538,589,645,710,779,854,905,970"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-da/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,784,698,876,487,544,597,647,218,344,275,411,103,153",
+                        "endColumns": "47,91,85,81,56,52,49,50,56,66,68,75,49,64",
+                        "endOffsets": "98,871,779,953,539,592,642,693,270,406,339,482,148,213"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,195,281,363,420,473,523,574,631,698,767,843,893",
+                        "endColumns": "47,91,85,81,56,52,49,50,56,66,68,75,49,64",
+                        "endOffsets": "98,190,276,358,415,468,518,569,626,693,762,838,888,953"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ms/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,808,719,902,505,559,613,666,226,356,283,426,105,159",
+                        "endColumns": "49,93,88,86,53,53,52,52,56,69,72,78,53,66",
+                        "endOffsets": "100,897,803,984,554,608,661,714,278,421,351,500,154,221"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,199,288,375,429,483,536,589,646,716,789,868,922",
+                        "endColumns": "49,93,88,86,53,53,52,52,56,69,72,78,53,66",
+                        "endOffsets": "100,194,283,370,424,478,531,584,641,711,784,863,917,984"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-it/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,812,718,917,505,561,616,667,226,356,286,430,107,160",
+                        "endColumns": "51,104,93,88,55,54,50,50,59,73,69,74,52,65",
+                        "endOffsets": "102,912,807,1001,556,611,662,713,281,425,351,500,155,221"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,212,306,395,451,506,557,608,668,742,812,887,940",
+                        "endColumns": "51,104,93,88,55,54,50,50,59,73,69,74,52,65",
+                        "endOffsets": "102,207,301,390,446,501,552,603,663,737,807,882,935,1001"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ar/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,795,705,881,497,551,603,653,223,345,277,417,105,154",
+                        "endColumns": "49,85,89,80,53,51,49,51,53,71,67,79,48,68",
+                        "endOffsets": "100,876,790,957,546,598,648,700,272,412,340,492,149,218"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,191,281,362,416,468,518,570,624,696,764,844,893",
+                        "endColumns": "49,85,89,80,53,51,49,51,53,71,67,79,48,68",
+                        "endOffsets": "100,186,276,357,411,463,513,565,619,691,759,839,888,957"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-sk/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,789,700,887,487,542,598,649,224,346,280,411,105,158",
+                        "endColumns": "49,97,88,88,54,55,50,50,55,64,65,75,52,65",
+                        "endOffsets": "100,882,784,971,537,593,644,695,275,406,341,482,153,219"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,203,292,381,436,492,543,594,650,715,781,857,910",
+                        "endColumns": "49,97,88,88,54,55,50,50,55,64,65,75,52,65",
+                        "endOffsets": "100,198,287,376,431,487,538,589,645,710,776,852,905,971"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-cs/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,802,713,894,493,548,606,659,223,347,279,417,104,157",
+                        "endColumns": "48,91,88,80,54,57,52,53,55,69,67,75,52,65",
+                        "endOffsets": "99,889,797,970,543,601,654,708,274,412,342,488,152,218"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,196,285,366,421,479,532,586,642,712,780,856,909",
+                        "endColumns": "48,91,88,80,54,57,52,53,55,69,67,75,52,65",
+                        "endOffsets": "99,191,280,361,416,474,527,581,637,707,775,851,904,970"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-bg/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,807,715,905,501,556,611,662,218,353,280,428,102,159",
+                        "endColumns": "46,97,91,87,54,54,50,52,61,74,72,72,56,58",
+                        "endOffsets": "97,900,802,988,551,606,657,710,275,423,348,496,154,213"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,200,292,380,435,490,541,594,656,731,804,877,934",
+                        "endColumns": "46,97,91,87,54,54,50,52,61,74,72,72,56,58",
+                        "endOffsets": "97,195,287,375,430,485,536,589,651,726,799,872,929,988"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-sv/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,800,711,895,496,551,606,658,222,348,279,419,104,157",
+                        "endColumns": "48,94,88,83,54,54,51,52,56,70,68,76,52,64",
+                        "endOffsets": "99,890,795,974,546,601,653,706,274,414,343,491,152,217"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,199,288,372,427,482,534,587,644,715,784,861,914",
+                        "endColumns": "48,94,88,83,54,54,51,52,56,70,68,76,52,64",
+                        "endOffsets": "99,194,283,367,422,477,529,582,639,710,779,856,909,974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-id_values-id.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-id/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,814,713,916,500,557,611,662,221,352,279,422,105,156",
+                        "endColumns": "49,101,100,85,56,53,50,50,57,69,72,77,50,64",
+                        "endOffsets": "100,911,809,997,552,606,657,708,274,417,347,495,151,216"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,207,308,394,451,505,556,607,665,735,808,886,937",
+                        "endColumns": "49,101,100,85,56,53,50,50,57,69,72,77,50,64",
+                        "endOffsets": "100,202,303,389,446,500,551,602,660,730,803,881,932,997"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-zh-rTW/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,687,621,749,421,472,523,572,204,301,250,352,102,144",
+                        "endColumns": "46,61,65,65,50,50,48,48,45,50,50,68,41,59",
+                        "endOffsets": "97,744,682,810,467,518,567,616,245,347,296,416,139,199"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,164,230,296,347,398,447,496,542,593,644,713,755",
+                        "endColumns": "46,61,65,65,50,50,48,48,45,50,50,68,41,59",
+                        "endOffsets": "97,159,225,291,342,393,442,491,537,588,639,708,750,810"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-cy_values-cy.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-cy/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,826,729,923,516,572,626,677,231,365,292,439,110,163",
+                        "endColumns": "54,96,96,81,55,53,50,51,60,73,72,76,52,67",
+                        "endOffsets": "105,918,821,1000,567,621,672,724,287,434,360,511,158,226"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,110,207,304,386,442,496,547,599,660,734,807,884,937",
+                        "endColumns": "54,96,96,81,55,53,50,51,60,73,72,76,52,67",
+                        "endOffsets": "105,202,299,381,437,491,542,594,655,729,802,879,932,1000"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ur/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,785,702,879,490,544,596,649,225,351,280,414,105,159",
+                        "endColumns": "49,93,82,80,53,51,52,52,54,62,70,75,53,65",
+                        "endOffsets": "100,874,780,955,539,591,644,697,275,409,346,485,154,220"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,199,282,363,417,469,522,575,630,693,764,840,894",
+                        "endColumns": "49,93,82,80,53,51,52,52,54,62,70,75,53,65",
+                        "endOffsets": "100,194,277,358,412,464,517,570,625,688,759,835,889,955"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-hr/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,795,700,888,485,540,596,649,221,346,277,410,104,155",
+                        "endColumns": "48,92,94,85,54,55,52,50,55,63,68,74,50,65",
+                        "endOffsets": "99,883,790,969,535,591,644,695,272,405,341,480,150,216"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,197,292,378,433,489,542,593,649,713,782,857,908",
+                        "endColumns": "48,92,94,85,54,55,52,50,55,63,68,74,50,65",
+                        "endOffsets": "99,192,287,373,428,484,537,588,644,708,777,852,903,969"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-pt/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,810,723,907,507,564,619,670,230,355,286,424,106,159",
+                        "endColumns": "50,96,86,90,56,54,50,52,55,68,68,82,52,70",
+                        "endOffsets": "101,902,805,993,559,614,665,718,281,419,350,502,154,225"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,203,290,381,438,493,544,597,653,722,791,874,927",
+                        "endColumns": "50,96,86,90,56,54,50,52,55,68,68,82,52,70",
+                        "endOffsets": "101,198,285,376,433,488,539,592,648,717,786,869,922,993"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ta/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,798,719,901,500,559,614,665,224,345,285,412,105,154",
+                        "endColumns": "49,102,78,87,58,54,50,53,60,66,59,87,48,69",
+                        "endOffsets": "100,896,793,984,554,609,660,714,280,407,340,495,149,219"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,208,287,375,434,489,540,594,655,722,782,870,919",
+                        "endColumns": "49,102,78,87,58,54,50,53,60,66,59,87,48,69",
+                        "endOffsets": "100,203,282,370,429,484,535,589,650,717,777,865,914,984"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ro/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,825,737,924,524,580,635,686,231,366,290,439,103,156",
+                        "endColumns": "47,98,87,88,55,54,50,50,58,72,75,84,52,74",
+                        "endOffsets": "98,919,820,1008,575,630,681,732,285,434,361,519,151,226"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,202,290,379,435,490,541,592,651,724,800,885,938",
+                        "endColumns": "47,98,87,88,55,54,50,50,58,72,75,84,52,74",
+                        "endOffsets": "98,197,285,374,430,485,536,587,646,719,795,880,933,1008"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-et/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,774,689,873,477,531,587,638,218,338,276,399,103,152",
+                        "endColumns": "47,98,84,87,53,55,50,50,57,60,61,77,48,65",
+                        "endOffsets": "98,868,769,956,526,582,633,684,271,394,333,472,147,213"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,202,287,375,429,485,536,587,645,706,768,846,895",
+                        "endColumns": "47,98,84,87,53,55,50,50,57,60,61,77,48,65",
+                        "endOffsets": "98,197,282,370,424,480,531,582,640,701,763,841,890,956"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-fr/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,849,759,955,533,589,647,705,235,372,295,445,104,159",
+                        "endColumns": "48,105,89,97,55,57,57,53,59,72,76,87,54,75",
+                        "endOffsets": "99,950,844,1048,584,642,700,754,290,440,367,528,154,230"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,210,300,398,454,512,570,624,684,757,834,922,977",
+                        "endColumns": "48,105,89,97,55,57,57,53,59,72,76,87,54,75",
+                        "endOffsets": "99,205,295,393,449,507,565,619,679,752,829,917,972,1048"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-hi/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,797,714,882,498,556,611,664,221,349,278,421,105,154",
+                        "endColumns": "49,84,82,81,57,54,52,49,56,71,70,76,48,66",
+                        "endOffsets": "100,877,792,959,551,606,659,709,273,416,344,493,149,216"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,190,273,355,413,468,521,571,628,700,771,848,897",
+                        "endColumns": "49,84,82,81,57,54,52,49,56,71,70,76,48,66",
+                        "endOffsets": "100,185,268,350,408,463,516,566,623,695,766,843,892,959"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-nl/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,829,740,930,522,580,635,689,235,365,296,434,105,158",
+                        "endColumns": "49,100,88,92,57,54,53,50,60,68,68,87,52,76",
+                        "endOffsets": "100,925,824,1018,575,630,684,735,291,429,360,517,153,230"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,206,295,388,446,501,555,606,667,736,805,893,946",
+                        "endColumns": "49,100,88,92,57,54,53,50,60,68,68,87,52,76",
+                        "endOffsets": "100,201,290,383,441,496,550,601,662,731,800,888,941,1018"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-vi/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,789,705,881,494,546,598,649,220,348,274,421,104,155",
+                        "endColumns": "48,91,83,80,51,51,50,55,53,72,73,72,50,64",
+                        "endOffsets": "99,876,784,957,541,593,644,700,269,416,343,489,150,215"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,196,280,361,413,465,516,572,626,699,773,846,897",
+                        "endColumns": "48,91,83,80,51,51,50,55,53,72,73,72,50,64",
+                        "endOffsets": "99,191,275,356,408,460,511,567,621,694,768,841,892,957"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-tr/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,794,711,875,501,556,608,660,221,355,282,425,106,154",
+                        "endColumns": "50,80,82,80,54,51,51,50,60,69,72,75,47,66",
+                        "endOffsets": "101,870,789,951,551,603,655,706,277,420,350,496,149,216"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,187,270,351,406,458,510,561,622,692,765,841,889",
+                        "endColumns": "50,80,82,80,54,51,51,50,60,69,72,75,47,66",
+                        "endOffsets": "101,182,265,346,401,453,505,556,617,687,760,836,884,951"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-uk/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,814,725,912,504,562,619,674,225,352,283,425,104,156",
+                        "endColumns": "48,97,88,90,57,56,54,50,57,72,68,78,51,68",
+                        "endOffsets": "99,907,809,998,557,614,669,720,278,420,347,499,151,220"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,202,291,382,440,497,552,603,661,734,803,882,934",
+                        "endColumns": "48,97,88,90,57,56,54,50,57,72,68,78,51,68",
+                        "endOffsets": "99,197,286,377,435,492,547,598,656,729,798,877,929,998"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ml/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,849,759,951,523,582,645,703,230,367,297,437,106,159",
+                        "endColumns": "50,101,89,95,58,62,57,55,66,69,69,85,52,70",
+                        "endOffsets": "101,946,844,1042,577,640,698,754,292,432,362,518,154,225"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,208,298,394,453,516,574,630,697,767,837,923,976",
+                        "endColumns": "50,101,89,95,58,62,57,55,66,69,69,85,52,70",
+                        "endOffsets": "101,203,293,389,448,511,569,625,692,762,832,918,971,1042"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-ne/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,823,740,906,501,564,623,683,225,358,288,423,105,157",
+                        "endColumns": "49,82,82,76,62,58,59,56,62,64,69,77,51,67",
+                        "endOffsets": "100,901,818,978,559,618,678,735,283,418,353,496,152,220"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,188,271,348,411,470,530,587,650,715,785,863,915",
+                        "endColumns": "49,82,82,76,62,58,59,56,62,64,69,77,51,67",
+                        "endOffsets": "100,183,266,343,406,465,525,582,645,710,780,858,910,978"
+                    }
+                }
+            ]
+        }
+    ]
+}

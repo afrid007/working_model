@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,20,19,21,14,15,16,17,7,10,9,12,4,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,776,689,861,476,531,586,637,212,332,269,400,100,146",
+                        "endColumns": "43,84,86,82,54,54,50,50,55,66,62,74,45,64",
+                        "endOffsets": "94,856,771,939,526,581,632,683,263,394,327,470,141,206"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "270,314,399,486,569,624,679,730,781,837,904,967,1042,1088",
+                        "endColumns": "43,84,86,82,54,54,50,50,55,66,62,74,45,64",
+                        "endOffsets": "309,394,481,564,619,674,725,776,832,899,962,1037,1083,1148"
+                    }
+                },
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "5,6,2,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "161,219,55,109",
+                        "endColumns": "57,51,53,50",
+                        "endOffsets": "214,266,104,155"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,113,165,219",
+                        "endColumns": "57,51,53,50",
+                        "endOffsets": "108,160,214,265"
+                    }
+                },
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,246",
+                        "endLines": "5,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "241,642"
+                    },
+                    "to": {
+                        "startLines": "20,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "1153,1344",
+                        "endLines": "23,30",
+                        "endColumns": "12,12",
+                        "endOffsets": "1339,1740"
+                    }
+                }
+            ]
+        }
+    ]
+}

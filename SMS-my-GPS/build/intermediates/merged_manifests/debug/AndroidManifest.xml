@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.github.warren_bank.sms_automatic_reply_gps"
+    android:versionCode="2010711"
+    android:versionName="002.01.07-11API" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="28" />
+
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="false"
+        android:debuggable="true"
+        android:icon="@drawable/launcher"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity
+            android:name="com.parent.subparent.autoreply.ui.PreferenceActivity"
+            android:configChanges="colorMode|density|fontScale|keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode"
+            android:label="@string/app_name"
+            android:launchMode="standard"
+            android:theme="@style/app_theme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.parent.subparent.autoreply.event.SMSReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:permission="android.permission.BROADCAST_SMS" >
+            <intent-filter android:priority="2147483647" >
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+            <intent-filter android:priority="2147483647" >
+                <action android:name="android.intent.action.DATA_SMS_RECEIVED" />
+
+                <data
+                    android:host="*"
+                    android:port="9200"
+                    android:scheme="sms" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

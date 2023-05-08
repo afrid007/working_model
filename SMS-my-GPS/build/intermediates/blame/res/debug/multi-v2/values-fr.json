@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "map": [
+                {
+                    "source": "/home/worldismine/AndroidStudioProjects/working model/SMS-my-GPS/src/main/res/values-fr/strings.xml",
+                    "from": {
+                        "startLines": "2,14,13,15,9,10,11,12,5,7,6,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,849,759,955,533,589,647,705,235,372,295,445,104,159",
+                        "endColumns": "48,105,89,97,55,57,57,53,59,72,76,87,54,75",
+                        "endOffsets": "99,950,844,1048,584,642,700,754,290,440,367,528,154,230"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,210,300,398,454,512,570,624,684,757,834,922,977",
+                        "endColumns": "48,105,89,97,55,57,57,53,59,72,76,87,54,75",
+                        "endOffsets": "99,205,295,393,449,507,565,619,679,752,829,917,972,1048"
+                    }
+                }
+            ]
+        }
+    ]
+}
